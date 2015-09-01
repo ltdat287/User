@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Package Control",
+		"PHP Syntax Checker",
+		"SFTP",
+		"Shell Exec",
+		"SideBarEnhancements",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-phplint",
+		"Theme - Asphalt",
+		"Theme - Brogrammer"
+	]
+}
