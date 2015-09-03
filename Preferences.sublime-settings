@@ -1,7 +1,8 @@
 {
+	"bold_folder_labels": true,
 	"caret_style": "smooth",
-	"color_scheme": "Packages/User/SublimeLinter/Dawn (SL).tmTheme",
-	"highlight_line": true,
+	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -9,5 +10,5 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"theme": "Asphalt.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme"
 }

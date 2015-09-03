@@ -5,10 +5,14 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
+		"Material Color Scheme",
+		"Material Theme",
+		"Material Theme - White Panels",
 		"Package Control",
 		"PHP Companion",
 		"PHP Syntax Checker",
